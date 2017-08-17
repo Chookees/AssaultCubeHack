@@ -1,0 +1,9 @@
+﻿  Main.cpp
+c:\users\artur\documents\visual studio 2017\projects\assaultcubehack\assaultcubehack\adrclass.h(25): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+  c:\users\artur\documents\visual studio 2017\projects\assaultcubehack\assaultcubehack\adrclass.h(25): note: Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+c:\users\artur\documents\visual studio 2017\projects\assaultcubehack\assaultcubehack\main.cpp(145): warning C4552: "!=": Operator hat keine Auswirkungen; Operator mit Nebeneffekt erwartet
+c:\users\artur\documents\visual studio 2017\projects\assaultcubehack\assaultcubehack\main.cpp(155): warning C4552: "!=": Operator hat keine Auswirkungen; Operator mit Nebeneffekt erwartet
+c:\users\artur\documents\visual studio 2017\projects\assaultcubehack\assaultcubehack\main.cpp(164): warning C4552: "!=": Operator hat keine Auswirkungen; Operator mit Nebeneffekt erwartet
+c:\users\artur\documents\visual studio 2017\projects\assaultcubehack\assaultcubehack\main.cpp(173): warning C4552: "!=": Operator hat keine Auswirkungen; Operator mit Nebeneffekt erwartet
+  AssaultCubeHack.vcxproj -> C:\Users\Artur\documents\visual studio 2017\Projects\AssaultCubeHack\Debug\AssaultCubeHack.exe
+  AssaultCubeHack.vcxproj -> C:\Users\Artur\documents\visual studio 2017\Projects\AssaultCubeHack\Debug\AssaultCubeHack.pdb (Partial PDB)
